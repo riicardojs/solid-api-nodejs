@@ -4,7 +4,7 @@ WellHub style app
 
 ## RFs (Requisitos funcionais)
 
-- [✅] Deve ser possível se cadastrar;
+- [x] Deve ser possível se cadastrar;
 - [ ] Deve ser possivel se autenticar;
 - [ ] Deve ser possível obter o perfil de um usuário logado;
 - [ ] Deve ser possível obter o número de checkins realizados pelo usúario logado;
@@ -17,7 +17,7 @@ WellHub style app
 
 ## RNs (Requisitos de negócio)
 
-- [✅] O usuário naõ deve poder se cadastrar com um e-mail duplicado;
+- [x] O usuário naõ deve poder se cadastrar com um e-mail duplicado;
 - [ ] O usuário não pode fazer 2 checkins no mesmo dia;
 - [ ] O usuário não pode fazer checkins se não estiver perto (100m) da academia;
 - [ ] O checkin só pode ser validado até 20 minutos após criado;
@@ -26,7 +26,7 @@ WellHub style app
 
 ## RNFs (Requisitos não funcionais)
 
-- [✅] A senha do usuário precisa estar criptografada;
-- [✅] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
+- [x] A senha do usuário precisa estar criptografada;
+- [x] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
 - [ ] Todas listas de dados precisam estar paginadas com 20 itens por página;
 - [ ] O usuário deve ser identificado por um JWT (JSON Web Token);
