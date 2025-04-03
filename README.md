@@ -5,7 +5,7 @@ WellHub style app
 ## RFs (Requisitos funcionais)
 
 - [x] Deve ser possível se cadastrar;
-- [ ] Deve ser possivel se autenticar;
+- [x] Deve ser possivel se autenticar;
 - [ ] Deve ser possível obter o perfil de um usuário logado;
 - [ ] Deve ser possível obter o número de checkins realizados pelo usúario logado;
 - [ ] Deve ser possível o usuário obter seu histórico de checkins;
