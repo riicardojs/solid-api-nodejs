@@ -7,7 +7,7 @@ WellHub style app
 - [x] Deve ser possível se cadastrar;
 - [x] Deve ser possivel se autenticar;
 - [x] Deve ser possível obter o perfil de um usuário logado;
-- [ ] Deve ser possível obter o número de checkins realizados pelo usúario logado;
+- [x] Deve ser possível obter o número de checkins realizados pelo usúario logado;
 - [x] Deve ser possível o usuário obter seu histórico de checkins;
 - [ ] Deve ser possível o usuário buscar academias próximas;
 - [ ] Deve ser possivel o usuário buscar academias pelo nome;
