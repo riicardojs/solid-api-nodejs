@@ -8,7 +8,7 @@ WellHub style app
 - [x] Deve ser possivel se autenticar;
 - [x] Deve ser possível obter o perfil de um usuário logado;
 - [ ] Deve ser possível obter o número de checkins realizados pelo usúario logado;
-- [ ] Deve ser possível o usuário obter seu histórico de checkins;
+- [x] Deve ser possível o usuário obter seu histórico de checkins;
 - [ ] Deve ser possível o usuário buscar academias próximas;
 - [ ] Deve ser possivel o usuário buscar academias pelo nome;
 - [x] Deve ser possível o usuário realizar checkin em uma academia;
@@ -28,5 +28,5 @@ WellHub style app
 
 - [x] A senha do usuário precisa estar criptografada;
 - [x] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
-- [ ] Todas listas de dados precisam estar paginadas com 20 itens por página;
+- [x] Todas listas de dados precisam estar paginadas com 20 itens por página;
 - [ ] O usuário deve ser identificado por um JWT (JSON Web Token);
