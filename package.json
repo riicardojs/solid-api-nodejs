@@ -4,7 +4,7 @@
   "description": "WellHub style app",
   "main": "index.js",
   "scripts": {
-    "start:dev": "tsx watch src/server.ts",
+    "start:dev": "tsx watch --env-file .env src/server.ts",
     "start": "node build/server.js",
     "build": "tsup src --out-dir build",
     "test": "vitest run",
@@ -30,6 +30,7 @@
     "vitest": "3.1.1"
   },
   "dependencies": {
+    "@fastify/jwt": "9.1.0",
     "@prisma/client": "6.5.0",
     "bcryptjs": "3.0.2",
     "dayjs": "1.11.13",
